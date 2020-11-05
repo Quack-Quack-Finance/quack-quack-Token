@@ -24,7 +24,7 @@ npm install /erc20-token
 ```solidity
 pragma solidity ^0.7.0;
 
-import "@vittominacori/erc20-token/contracts/ERC20Base.sol";
+import "/erc20-token/contracts/ERC20Base.sol";
 
 contract MyToken is ERC20Base {
 
