@@ -16,7 +16,7 @@ Token has the ERC1363 behaviors. [ERC1363](https://eips.ethereum.org/EIPS/eip-13
 ## Install
 
 ```bash
-npm install @vittominacori/erc20-token
+npm install /erc20-token
 ```
 
 ## Usage
